@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-fd85ed52.zappy5.app
+https://example.com
 קבוצת סמארט סקיוריטי מספקת מערכות אבטחה למתקינים מקצועיים בישראל – ייבוא, ייצור והפצה של מותגי עילית. הצטרפו לשותפות עסקית מובילה עוד היום.
 
 ### חברות בקבוצה
-https://-fd85ed52.zappy5.app/group-companies
+https://example.com/group-companies
 הכירו את חברות הקבוצה: Alta, Pima, Maximum ו-Smart Security – כל אחת מובילה בתחומה ומספקת פתרונות אבטחה וסאונד למתקינים ומפיצים בלבד.
 
 ### ייצור ותמיכה
-https://-fd85ed52.zappy5.app/manufacturing-support
+https://example.com/manufacturing-support
 ייצור ותמיכה טכנית ברמה הגבוהה ביותר: מערכות אזעקה של Pima וגלאי Maximum מפותחים ומיוצרים בישראל עבור אינטגרטורים ומתקינים מקצועיים.
 
 ### צור קשר
-https://-fd85ed52.zappy5.app/contact
+https://example.com/contact
 מחפשים שותף אמין למערכות אבטחה ומתח נמוך? השאירו פרטים ונחזור אליכם במהירות. צוות סמארט סקיוריטי כאן עבור מתקינים ומפיצים מקצועיים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-fd85ed52.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-fd85ed52.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-fd85ed52.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-fd85ed52.zappy5.app/contact
-- Endpoint: https://-fd85ed52.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Low Voltage Systems / Security & Audio Technology
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-fd85ed52.zappy5.app/sitemap.xml
-- Robots: https://-fd85ed52.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-fd85ed52.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
