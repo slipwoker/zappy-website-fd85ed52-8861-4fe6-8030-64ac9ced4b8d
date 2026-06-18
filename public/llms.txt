@@ -1,0 +1,84 @@
+# סמארט סקיוריטי — Generative Engine Optimization Map
+
+> A professional B2B group of four companies specializing in low voltage systems for the Israeli market. Smart Security handles import and distribution of security systems exclusively to installers (not retail). Alta focuses on import and distribution of 100V and 8-ohm sound systems to distributors and installers. Pima is a leading Israeli manufacturer and developer of alarm systems. Maximum is a leading Israeli manufacturer and developer of unique volumetric detectors. The group serves only professional trade clients — installers and distributors — positioning itself as a top-tier industry supplier.
+
+---
+
+## Pages
+
+### בית
+https://-fd85ed52.zappy5.app
+קבוצת סמארט סקיוריטי מספקת מערכות אבטחה למתקינים מקצועיים בישראל – ייבוא, ייצור והפצה של מותגי עילית. הצטרפו לשותפות עסקית מובילה עוד היום.
+
+### חברות בקבוצה
+https://-fd85ed52.zappy5.app/group-companies
+הכירו את חברות הקבוצה: Alta, Pima, Maximum ו-Smart Security – כל אחת מובילה בתחומה ומספקת פתרונות אבטחה וסאונד למתקינים ומפיצים בלבד.
+
+### ייצור ותמיכה
+https://-fd85ed52.zappy5.app/manufacturing-support
+ייצור ותמיכה טכנית ברמה הגבוהה ביותר: מערכות אזעקה של Pima וגלאי Maximum מפותחים ומיוצרים בישראל עבור אינטגרטורים ומתקינים מקצועיים.
+
+### צור קשר
+https://-fd85ed52.zappy5.app/contact
+מחפשים שותף אמין למערכות אבטחה ומתח נמוך? השאירו פרטים ונחזור אליכם במהירות. צוות סמארט סקיוריטי כאן עבור מתקינים ומפיצים מקצועיים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-fd85ed52.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-fd85ed52.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-fd85ed52.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-fd85ed52.zappy5.app/contact
+- Endpoint: https://-fd85ed52.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סמארט סקיוריטי
+A professional B2B group of four companies specializing in low voltage systems for the Israeli market. Smart Security handles import and distribution of security systems exclusively to installers (not retail). Alta focuses on import and distribution of 100V and 8-ohm sound systems to distributors and installers. Pima is a leading Israeli manufacturer and developer of alarm systems. Maximum is a leading Israeli manufacturer and developer of unique volumetric detectors. The group serves only professional trade clients — installers and distributors — positioning itself as a top-tier industry supplier.
+
+## Services/Products
+- סמארט סקיוריטי - ייבוא ושיווק מערכות אבטחה למתקינים
+- אלטה - ייבוא ושיווק מערכות סאונד 100V ו-8 אוהם למפיצים ומתקינים
+- פימה - פיתוח וייצור מערכות אזעקה
+- מקסימום - פיתוח וייצור גלאי נפח ייחודיים
+
+## Target Audience
+- מתקינים, מפיצים ואינטגרטורים מקצועיים - לא לקוחות קמעונאיים
+- מתקינים ומפיצים מקצועיים
+- אינטגרטורים של מערכות
+
+## Industry
+Low Voltage Systems / Security & Audio Technology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-fd85ed52.zappy5.app/sitemap.xml
+- Robots: https://-fd85ed52.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-fd85ed52.zappy5.app/llms-full.txt
